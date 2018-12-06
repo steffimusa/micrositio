@@ -99,11 +99,13 @@ textarea {
 
 
 img{
-    width: 100%;
-    max-width: 100%;
+
 }
 
 
+body{
+    background-color: red;
+}
 
 
 
